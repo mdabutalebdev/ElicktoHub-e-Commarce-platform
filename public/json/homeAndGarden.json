@@ -1,0 +1,160 @@
+{
+    "categories": [
+        {
+            "name": "Armchairs",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/Armchairs.jpg.webp"
+        },
+        {
+            "name": "Beds",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/For-the-bedroom.jpg.webp"
+        },
+        {
+            "name": "Chairs",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/Chairs.jpg.webp"
+        },
+        {
+            "name": "Lighting",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/lighting.jpg.webp"
+        },
+        {
+            "name": "Sofas",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/Furniture.jpg.webp"
+        },
+        {
+            "name": "Tables",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/Tables.jpg.webp"
+        },
+        {
+            "name": "Textiles",
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/textiles.jpg.webp"
+        }
+    ],
+    "bestsellers": [
+        {
+            "id": 1,
+            "name": "Strandford Bridge",
+            "category": "Chairs",
+            "price": 876.00,
+            "oldPrice": 990.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-chair-prod-6-2.jpg",
+            "sale": true
+        },
+        {
+            "id": 2,
+            "name": "Arbour",
+            "category": "Sofas",
+            "price": 1900.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-sofas-prod-4-1-430x491.jpg",
+            "sale": false
+        },
+        {
+            "id": 3,
+            "name": "Hem",
+            "category": "Textiles",
+            "price": 45.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-textiles-prod-4-1-430x491.jpg",
+            "sale": false
+        },
+        {
+            "id": 4,
+            "name": "Revolt",
+            "category": "Chairs",
+            "price": 275.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-chair-prod-15-1-430x491.jpg",
+            "sale": false
+        },
+        {
+            "id": 5,
+            "name": "Savile Row",
+            "category": "Sofas",
+            "price": 1849.00,
+            "oldPrice": 2200.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-sofas-prod-15-2-430x491.jpg",
+            "sale": true
+        },
+        {
+            "id": 6,
+            "name": "Maya Dune Linal",
+            "category": "Textiles",
+            "price": 820.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-textiles-prod-15-1-430x491.jpg",
+            "sale": false
+        },
+        {
+            "id": 7,
+            "name": "Rosemary",
+            "category": "Armchairs",
+            "price": 699.00,
+            "oldPrice": 750.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-armchairs-prod-1-1.jpg.webp",
+            "sale": true
+        },
+        {
+            "id": 8,
+            "name": "Giro",
+            "category": "Tables",
+            "price": 2420.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-armchairs-prod-1-2.jpg",
+            "sale": false
+        },
+        {
+            "id": 9,
+            "name": "Azul",
+            "category": "Beds",
+            "price": 703.00,
+            "oldPrice": 800.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-armchairs-prod-1-1.jpg",
+            "sale": true
+        },
+        {
+            "id": 10,
+            "name": "Bela",
+            "category": "Lighting",
+            "price": 242.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-sofas-prod-6-1.jpg.webp",
+            "sale": false
+        },
+        {
+            "id": 11,
+            "name": "Sophie",
+            "category": "Chairs",
+            "price": 620.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-sofas-prod-6-2.jpg",
+            "sale": false
+        },
+        {
+            "id": 12,
+            "name": "Mikonos",
+            "category": "Sofas",
+            "price": 1349.00,
+            "oldPrice": 1500.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-chair-prod-6-3.jpg",
+            "sale": true
+        },
+        {
+            "id": 13,
+            "name": "Max",
+            "category": "Textiles",
+            "price": 999.00,
+            "oldPrice": 1100.00,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-sofas-prod-6-3.jpg",
+            "sale": true
+        },
+        {
+            "id": 14,
+            "name": "U-stole",
+            "category": "Chairs",
+            "price": 295.00,
+            "oldPrice": null,
+            "image": "https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/wd-furniture-chair-prod-6-1.jpg",
+            "sale": false
+        }
+    ]
+}

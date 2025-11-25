@@ -1,0 +1,115 @@
+{
+  "hotCategories": [
+    {
+      "name": "Appliances",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU872KuVdRuRbF-JJduuTdKa9yf-_yU3Mulg&s",
+      "href": "#"
+    },
+    {
+      "name": "Consoles",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZcZOAsIwe-lLkF_7BKvMNe6Cx-4sBI6npMQ&s",
+      "href": "#"
+    },
+    {
+      "name": "Fridges",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_FQxynOhrLBxqI9UKJzgGQAUAMGUsa2Xlw&s",
+      "href": "#"
+    },
+    {
+      "name": "Laptops",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpHoDnsqlcBnQXgAZdUn-9W_QOtyL7LjGCg&s",
+      "href": "#"
+    },
+    {
+      "name": "Irons",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmL8C09SpI7Y99X46jEP_NJ4X1IcOSx1bKQ&s",
+      "href": "#"
+    },
+    {
+      "name": "Games",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1odDZM5YFBToWVfgLfHQV1P9TD8Gd1C7iw&s",
+      "href": "#"
+    },
+    {
+      "name": "Phone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmfjwyc7JDFc0gCHxj2d0pr76mBDl64ktxQ&s",
+      "href": "#"
+    },
+    {
+      "name": "TVs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi5rV0YvDYhJ-7KmNulTeKYuS3bCu5wMi60w&s",
+      "href": "#"
+    },
+    {
+      "name": "Appliance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU872KuVdRuRbF-JJduuTdKa9yf-_yU3Mulg&s",
+      "href": "#"
+    },
+    {
+      "name": "Console",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZcZOAsIwe-lLkF_7BKvMNe6Cx-4sBI6npMQ&s",
+      "href": "#"
+    },
+    {
+      "name": "Fridge",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_FQxynOhrLBxqI9UKJzgGQAUAMGUsa2Xlw&s",
+      "href": "#"
+    },
+    {
+      "name": "Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpHoDnsqlcBnQXgAZdUn-9W_QOtyL7LjGCg&s",
+      "href": "#"
+    },
+    {
+      "name": "Iron",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmL8C09SpI7Y99X46jEP_NJ4X1IcOSx1bKQ&s",
+      "href": "#"
+    },
+    {
+      "name": "Game",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1odDZM5YFBToWVfgLfHQV1P9TD8Gd1C7iw&s",
+      "href": "#"
+    },
+    {
+      "name": "Phon",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmfjwyc7JDFc0gCHxj2d0pr76mBDl64ktxQ&s",
+      "href": "#"
+    },
+    {
+      "name": "TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi5rV0YvDYhJ-7KmNulTeKYuS3bCu5wMi60w&s",
+      "href": "#"
+    }
+  ],
+  "bestPicks": [
+    {
+      "name": "Oculus Quest 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU872KuVdRuRbF-JJduuTdKa9yf-_yU3Mulg&s",
+      "rating": 5,
+      "oldPrice": 499,
+      "newPrice": 449,
+      "href": "#"
+    },
+    {
+      "name": "PlayStation 5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZcZOAsIwe-lLkF_7BKvMNe6Cx-4sBI6npMQ&s",
+      "rating": 4,
+      "newPrice": 800,
+      "href": "#"
+    },
+    {
+      "name": "Fossil Gen 6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_FQxynOhrLBxqI9UKJzgGQAUAMGUsa2Xlw&s",
+      "rating": 4,
+      "newPrice": 440,
+      "href": "#"
+    },
+    {
+      "name": "Apple MacBook",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpHoDnsqlcBnQXgAZdUn-9W_QOtyL7LjGCg&s",
+      "rating": 5,
+      "newPrice": 880,
+      "href": "#"
+    }
+  ]
+}

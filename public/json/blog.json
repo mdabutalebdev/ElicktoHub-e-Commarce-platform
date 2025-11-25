@@ -1,0 +1,33 @@
+
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "The Best Fashion Influencers to Follow",
+      "date": "Feb 10, 2024",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&q=80",
+      "description": "Discover the top fashion influencers who are shaping trends and styles across the globe. Get inspired by their unique looks.",
+      "details": "Fashion is ever-evolving, and influencers are at the forefront of this change. From street style to haute couture, these individuals provide daily inspiration to millions. In this article, we delve into the profiles of the top 5 fashion influencers you must follow. We analyze their impact, their unique style, and how they leverage platforms like Instagram and TikTok to build their brand. Following them is not just about seeing new clothes; it's about understanding the narrative of modern fashion."
+    },
+    {
+      "id": 2,
+      "title": "A Guide to Healthy Eating Habits",
+      "date": "Mar 14, 2024",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1540420773420-226c262f2da9?w=500&q=80",
+      "description": "Learn the secrets to maintaining a balanced diet without sacrificing taste. Simple tips for a healthier you.",
+      "details": "Healthy eating is a cornerstone of a healthy lifestyle, yet it's often misunderstood. It's not about strict limitations, but rather about feeling great, having more energy, and improving your health. This guide provides practical tips on how to build a healthy diet. We cover topics like understanding macronutrients, the importance of hydration, meal planning, and making smart choices when eating out. Embrace a healthier relationship with food starting today."
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Wonders of Modern Technology",
+      "date": "Apr 02, 2024",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&q=80",
+      "description": "From AI to IoT, technology is rapidly changing our world. Dive into the most exciting tech trends of the year.",
+      "details": "Technology is advancing at an unprecedented pace. Artificial Intelligence, Machine Learning, and the Internet of Things (IoT) are no longer buzzwords but integral parts of our daily lives. This article explores the latest technological breakthroughs and their potential impact on society. We discuss everything from the ethics of AI to the convenience of smart homes, providing a comprehensive overview for tech enthusiasts and curious minds alike."
+    }
+  ],
+  "categories": ["Fashion", "Lifestyle", "Technology", "Travel"]
+}
