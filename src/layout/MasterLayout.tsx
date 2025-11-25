@@ -65,7 +65,7 @@ const MasterLayout = () => {
   return (
     <header>
       {/* Top Bar */}
-      <div className="bg-[#212529] text-white text-sm">
+      <div className="bg-white text-black text-sm">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-10">
             <nav className="hidden md:flex space-x-6">
@@ -94,8 +94,8 @@ const MasterLayout = () => {
             <div className="hidden lg:flex flex-grow max-w-xl mx-8">
               <div className="relative w-full">
                 <input type="search" placeholder="Search for products" className="w-full h-12 pl-5 pr-14 rounded-full border-0 focus:ring-0 text-gray-600 bg-white" />
-                <button className="absolute right-2 top-1/2 -translate-y-1/2 h-10 w-10 flex items-center justify-center bg-[#e5495f] rounded-full hover:bg-[#d43d52] transition">
-                  <Search className="text-white" />
+                <button className="absolute right-2 top-1/2 -translate-y-1/2 h-10 w-10 flex items-center justify-center transition">
+                  <Search className="text-black" />
                 </button>
               </div>
             </div>
@@ -137,7 +137,7 @@ const MasterLayout = () => {
       </div>
 
       {/* Navigation Bar */}
-      <div className="bg-[#e5495f] text-white">
+      <div className="bg-white text-black border-b">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-14">
             <nav className="hidden lg:flex space-x-6 font-medium">
