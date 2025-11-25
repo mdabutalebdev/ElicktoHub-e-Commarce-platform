@@ -40,9 +40,15 @@ const HeroSection: React.FC = () => {
           <LeftBanner />
 
           {/* Right Side */}
-            <Image 
-             
+           <div className="w-[600px]">
+             <Image 
+             src="/right banner.webp"
+             alt="banner right"
+             width={800}
+             height={300}
+             className="h-[500px] w-[600px] rounded-2xl"
             />
+           </div>
         </motion.div>
 
         {/* Best Picks */}
