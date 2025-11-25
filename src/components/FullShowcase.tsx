@@ -52,15 +52,14 @@ const featuredProducts = allProducts
   ];
 
   return (
-    <section className="bg-[#F8F9FA] py-12">
+    <section className="bg-gray-50 py-12">
       <div className="container mx-auto px-4 grid lg:grid-cols-4 gap-8">
         
         {/* Sidebar */}
         <aside className="space-y-8 lg:col-span-1">
           
           {/* Promo Banner */}
-          <div className="relative w-full max-w-sm rounded-2xl overflow-hidden shadow-xl group">
-            <Image src="https://m.media-amazon.com/images/I/7165scHTM4L._AC_SL1500_.jpg" alt="Alby Urbanears" width={400} height={600} className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" />
+          <div className="relative w-full max-w-sm rounded-2xl overflow-hidden shadow- group">
             <div className="absolute inset-0 flex flex-col p-8 bg-gradient-to-b from-sky-400/60 via-sky-400/20 to-transparent">
               <div className="text-slate-800">
                 <h2 className="text-5xl font-extrabold leading-tight">Alby <br /> Urbanears</h2>
@@ -82,7 +81,7 @@ const featuredProducts = allProducts
           </div>
 
           {/* Articles */}
-          <div className="bg-white p-6 rounded-2xl shadow-sm w-full max-w-sm">
+          <div className="bg-white p-6 rounded-2xl shadow-sm w-full max-w-sm mt-15">
             <h2 className="text-xl font-bold text-gray-800 mb-5">Last articles</h2>
             <div className="space-y-4">
               {articles.map((a, i) => (
@@ -100,7 +99,7 @@ const featuredProducts = allProducts
           </div>
 
           {/* Latest products */}
-          <div className="bg-white p-6 rounded-2xl shadow-sm w-full max-w-sm">
+          <div className="bg-white p-6 rounded-xl shadow-sm w-full max-w-sm">
             <h2 className="text-xl font-bold text-gray-800 mb-5">Latest products</h2>
             <div className="space-y-5">
               {products.map(p => (
@@ -126,14 +125,17 @@ const featuredProducts = allProducts
           
           {/* Featured Products */}
           <Tabs defaultValue="popular">
-            <div className="flex justify-between items-center mb-4">
-              <h2 className="text-2xl font-bold">Featured products</h2>
+           <div className="">
+             <div className="flex justify-between items-center mb-4">
+              <h3></h3>
+              <h2 className="text-3xl  flex items-center justify-center font-bold">Featured products</h2>
               <TabsList>
                 <TabsTrigger value="popular">Popular</TabsTrigger>
                 <TabsTrigger value="most-viewed">Most Viewed</TabsTrigger>
                 <TabsTrigger value="top-selling">Top Selling</TabsTrigger>
               </TabsList>
             </div>
+           </div>
             <TabsContent value="popular">
               {status === 'loading' && <div className="text-center p-8">Loading...</div>}
               {status === 'succeeded' && (
@@ -151,7 +153,7 @@ const featuredProducts = allProducts
               <div className="md:col-span-1">
                 <ProductCard product={{ id: 'cat-teepee-tent', name: 'Cat Teepee Tent', category: 'Textiles', image: 'https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/12/mp-cat-tent-1-212x242.jpg', rating: 0, price: 69, href: '#' }} />
               </div>
-              <div className="md:col-span-2 rounded-2xl overflow-hidden">
+              <div className="md:col-span-2 rounded-2xl  overflow-hidden">
                 <Image src="https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2025/02/hotspot-carusel-cat-tent-1-opt.jpg" alt="Cat in a tent" width={800} height={400} className="w-full h-full object-cover" />
               </div>
             </div>

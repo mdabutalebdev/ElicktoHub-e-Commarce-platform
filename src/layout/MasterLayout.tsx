@@ -86,10 +86,10 @@ const MasterLayout = () => {
       <div className="bg-black text-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
-            {/* <Link href="/" className="flex items-center">
-              <Image src="https://woodmart.xtemos.com/marketplace2/wp-content/uploads/sites/21/2024/03/mp2-logo-white.svg" width={200} height={40} alt="Woodmart" />
-            </Link> */}
-               <h3 className="text-2xl font-extrabold">ElictoHub</h3>
+            <Link href="/" className="flex items-center">
+                 <h3 className="text-2xl font-extrabold">ElictoHub</h3>
+            </Link>
+         
             {/* Search Bar */}
             <div className="hidden lg:flex flex-grow max-w-xl mx-8">
               <div className="relative w-full">

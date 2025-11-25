@@ -41,10 +41,10 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, view = 'grid'
   };
 
   return (
-    <Card className={`overflow-hidden shadow-sm hover:shadow-lg transition-shadow group ${view === 'list' ? 'flex' : ''}`}>
+    <Card className={`overflow-hidden shadow-sm   transition-shadow group ${view === 'list' ? 'flex' : ''}`}>
       <Link href={product.href} className={`w-full ${view === 'list' ? 'flex' : ''}`}>
         <div className={`relative ${view === 'list' ? 'w-1/3 flex-shrink-0' : 'w-full aspect-square'}`}>
-          <div className="bg-gray-100 flex items-center justify-center p-4 h-full">
+          <div className=" flex items-center justify-center p-4 h-full">
             <Image
               src={product.image}
               alt={product.name}

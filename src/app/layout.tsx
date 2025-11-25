@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next Redux Ecom",
+  title: "ElecktoHub e-Commarce Bangladesh",
   description: "A sample e-commerce application built with Next.js and Redux.",
 };
 
